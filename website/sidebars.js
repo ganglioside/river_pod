@@ -3,7 +3,7 @@ module.exports = {
     "getting_started",
     {
       type: "category",
-      label: "Guides",
+      label: "가이드",
       collapsed: false,
       items: [
         "cookbooks/testing",
@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Concepts",
+      label: "개념",
       items: [
         "concepts/providers",
         "concepts/reading",
@@ -31,13 +31,13 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Migration",
+      label: "마이그레이션",
       collapsed: false,
       items: ["migration/0.13.0_to_0.14.0", "migration/0.14.0_to_1.0.0"],
     },
     {
       type: "category",
-      label: "Official examples",
+      label: "공식 예제",
       items: [
         {
           type: "link",
@@ -58,7 +58,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Third party examples",
+      label: "Third party 예제",
       items: [
         {
           type: "link",
@@ -130,7 +130,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Api references",
+      label: "Api 레퍼런스",
       collapsed: false,
       items: [
         {

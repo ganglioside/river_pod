@@ -39,7 +39,7 @@ module.exports = {
         {
           to: "docs/getting_started",
           activeBasePath: "docs",
-          label: "Docs",
+          label: "문서",
           position: "right",
         },
         {
@@ -63,7 +63,7 @@ module.exports = {
           title: "Docs",
           items: [
             {
-              label: "Getting started",
+              label: "시작하기",
               to: "docs/getting_started",
             },
           ],
